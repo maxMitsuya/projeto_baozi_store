@@ -115,7 +115,7 @@ src/main/java/br/com/baozistore/
 
 ```json
 {
-    "nome": "Max Mitsuya99999999",
+    "nome": "Max Mitsuya(RU)",
     "clienteDesde": "2026-09-17"
 }
 ```
